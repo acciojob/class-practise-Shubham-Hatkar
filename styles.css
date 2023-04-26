@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+p:nth-child(2n+1)
+{
+    color: blue;
+    background-color: rgb(223, 217, 217);
+}
